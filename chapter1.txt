@@ -2,3 +2,11 @@ bsjhsbcjigsainkns
 sucbsbfbsbs
 svsv sjkbfk
 vjfsknf
+
+
+
+The parameter -w, --wait is to wait for window to be closed before returning. Visual Studio Code is base on Atom Editor. if you also have atom installed execute the command atom --help. You will see the last argument in the help is wait.
+
+Next time you do a git rebase -i HEAD~3 it will popup Visual Studio Code. Once VSCode is close then Git will take back the lead.
+
+Note: My current version of VSCode is 0.9.2
